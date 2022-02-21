@@ -10,4 +10,7 @@ Both methods offer different advantages.
 3. Training a matrix factorization model <br>
 4. Inspecting the Embeddings <br>
 5. Regularization in matrix factorization <br>
-6. Softmax model training <br>
+
+
+<br>
+7. Softmax model training <br>
