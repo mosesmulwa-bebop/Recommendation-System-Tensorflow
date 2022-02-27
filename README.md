@@ -1,6 +1,6 @@
 This repo covers a Movie recommendation system using Collaborative filtering to learn Movie and User Embeddings. 
 It uses the MovieLens Dataset which consists of movie rating from 1 to 5. 
-Dataset: 943 users, 1900 Movies, 100,000 Unique Ratings<br>
+Dataset: 943 users, 1900 Movies, 100,000 Unique Ratings.<br>
 
 
 ## Outline
